@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn throttle control, braking points, and racing lines so you can finish a clean lap before you chase raw speed."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Which Racer to Pick",
+          "description": "Compare the five pilot archetypes and the craft classes that suit each one, from agile interceptors to heavy podracers."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Upgrades & Tuning",
+          "description": "Spend credits in the right order to fix handling, boost, and cooling before you ever buy top speed."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Star Wars Galactic Racer."
+          "title": "Weapons & Combat",
+          "description": "Build a three-slot loadout that lets you overtake, defend, and survive contact in packed races."
         }
       ]
     },
@@ -66,265 +66,347 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Vehicle Classes",
+        "Upgrades & Tuning",
+        "Game Modes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first clean lap to consistent podium finishes.",
+          "href": "/guide/star-wars-galactic-racer-beginners-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "All Vehicles",
+          "description": "Every repulsorcraft class, from light interceptors to open-wheel podracers.",
+          "href": "/vehicles/star-wars-galactic-racer-all-vehicles"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Upgrades & Tuning",
+          "description": "Power plant, thrusters, cooling, handling, hull, and weight reduction explained.",
+          "href": "/mechanics/star-wars-galactic-racer-upgrades"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Playable Characters",
+          "description": "The five pilot archetypes compared so you can pick the right main.",
+          "href": "/characters/star-wars-galactic-racer-playable-characters"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Campaign Guide",
+          "description": "Event types, progression phases, and how to clear the season faster.",
+          "href": "/modes/star-wars-galactic-racer-campaign"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Multiplayer Guide",
+          "description": "Cross-play, private lobbies, and tactics for surviving packed grids.",
+          "href": "/modes/star-wars-galactic-racer-multiplayer"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Weapons & Loadouts",
+          "description": "Blasters, ion weapons, mines, and shields built into a balanced loadout.",
+          "href": "/mechanics/star-wars-galactic-racer-weapons"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Editions Compared",
+          "description": "Standard, Deluxe, and Collector's tiers and what each one unlocks.",
+          "href": "/release/star-wars-galactic-racer-editions"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "How to Win Races",
+          "description": "Track strategy, boost discipline, and the habits that win races.",
+          "href": "/guide/star-wars-galactic-racer-how-to-win"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Star Wars Galactic Racer?",
       "paragraphs": [
-        "Star Wars Galactic Racer is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Star Wars Galactic Racer is a high-speed, ship-based racing game set in the Star Wars galaxy. You pilot repulsorcraft, swoops, and podracer-style machines through the Galactic League, carrying speed through corners, chaining boosts, and fighting for position on circuits that cut across desert, canyon, city, and space worlds.",
+        "Each run mixes arcade racing with roguelite decisions: you pick a pilot archetype, tune your craft between events, and spend credits on handling, boost, and cooling upgrades that change how the machine behaves. Star Wars Galactic Racer also supports online multiplayer, split-screen racing, and a full campaign, and this wiki collects the guides, vehicle breakdowns, and tuning tips that help new pilots reach the podium."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Fuse Games"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "Secret Mode"
+        },
+        {
+          "label": "Platforms",
+          "value": "PC, PS5, Xbox Series X|S"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Roguelite Racer"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Vehicle Classes",
+          "value": "5"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Pilot Archetypes",
+          "value": "5"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Star Wars Galactic Racer Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Dive into eight core Star Wars Galactic Racer modules covering the beginner racing loop, vehicle classes, builds and upgrades, tracks and planets, game modes, multiplayer, editions, and PC requirements.",
       "modules": [
         {
           "order": 1,
-          "name": "Star Wars Galactic Racer Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/star-wars-galactic-racer-codes",
-          "displayType": "code-box",
+          "name": "Star Wars Galactic Racer Game Beginner Guide",
+          "description": "A beginner-friendly walkthrough of the core racing loop, covering throttle control, braking points, racing lines, and boost discipline before you take on harder Galactic League events.",
+          "href": "/guide/star-wars-galactic-racer-beginners-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Hold a steady throttle and learn the track before you push for speed"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Brake before the apex, not mid-corner, to keep momentum on exit"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Follow the racing line and hit the same apex three laps in a row"
+            },
+            {
+              "label": "4",
+              "detail": "Save boost for straights and corner exits instead of firing it constantly"
+            },
+            {
+              "label": "5",
+              "detail": "Commit to one racer for several hours so its handling becomes muscle memory"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/star-wars-galactic-racer-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Star Wars Galactic Racer Game Vehicles",
+          "description": "Showcase the repulsorcraft classes, including light interceptors, balanced all-rounders, heavy racers, boost prototypes, and podracers, and explain how each handling signature fits a track.",
+          "href": "/vehicles/star-wars-galactic-racer-vehicles",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Balanced all-rounder — the safest pick while you learn a new circuit"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Light interceptor — sharp turning and fast boost recharge on technical tracks"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Heavy racer — high top speed and contact resistance on long straights"
+            },
+            {
+              "label": "C",
+              "detail": "Boost prototype — huge burst speed with punishing handling for experts"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/star-wars-galactic-racer-tier-list",
-          "displayType": "tier-grid",
+          "name": "Star Wars Galactic Racer Game Builds and Upgrades",
+          "description": "Cover the upgrade tree — power plant, thrusters, cooling, handling, hull, and weight reduction — and how each part supports aggressive, defensive, or speed-focused builds.",
+          "href": "/mechanics/star-wars-galactic-racer-upgrades",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Handling",
+              "detail": "Stabilizers and grip first — corner exit speed beats straight-line speed early on"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Engine",
+              "detail": "Add power plant and thrusters once your craft stops spinning in corners"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Cooling",
+              "detail": "Match cooling to your boost use so sustained throttle does not overheat"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Hull",
+              "detail": "Hull and shielding pay off in contact-heavy lobbies and hazard tracks"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/star-wars-galactic-racer-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Star Wars Galactic Racer Game Tracks and Planets",
+          "description": "Introduce the desert, canyon, city, and space circuits of the Galactic League, plus the branching routes, elevation changes, and hazards that decide a run.",
+          "href": "/guide/star-wars-galactic-racer-how-to-win",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Canyons",
+              "detail": "Tight technical layouts where handling and weight reduction win the lap"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Cities",
+              "detail": "Narrow city circuits reward clean braking and precise racing lines"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Desert",
+              "detail": "Open desert tracks favour top speed, slipstream, and disciplined throttle"
+            },
+            {
+              "label": "Space",
+              "detail": "Orbital courses mix wide straights with hazard-heavy corners"
+            },
+            {
+              "label": "Hazards",
+              "detail": "Debris and environmental traps make hull upgrades worth the credits"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/star-wars-galactic-racer-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Star Wars Galactic Racer Game Modes",
+          "description": "Break down the campaign, arcade, time trial, and multiplayer experiences, and explain which progression or challenge structure each one offers.",
+          "href": "/modes/star-wars-galactic-racer-campaign",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Campaign",
+              "detail": "Season-long chapters and rival duels that unlock machines and parts"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Arcade",
+              "detail": "Pick-up-and-play races with preset tuning and instant restarts"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Time Trial",
+              "detail": "Solo runs focused on racing lines and clean, repeatable laps"
+            },
+            {
+              "label": "Online",
+              "detail": "Multiplayer races against human opponents with cross-play support"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/star-wars-galactic-racer-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Star Wars Galactic Racer Game Multiplayer Guide",
+          "description": "Explain competitive racing, cross-play, private lobbies, and the tactics that help you survive aggressive contact against other pilots.",
+          "href": "/modes/star-wars-galactic-racer-multiplayer",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Read the grid before the countdown and pick a launch lane with space"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Use slipstream and boost together to pass rivals on long straights"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Fit at least one utility or shield slot to finish contact-heavy races"
+            },
+            {
+              "label": "4",
+              "detail": "Race private lobbies with friends to practise clean overtakes"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Star Wars Galactic Racer Game Editions and Platforms",
+          "description": "Compare the Standard, Deluxe, and Collector's editions and summarise the platforms, preorder bonuses, and cosmetic extras of each tier.",
+          "href": "/release/star-wars-galactic-racer-editions",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Standard",
+              "detail": "Base game with the core racing experience and unlockable roster"
+            },
+            {
+              "label": "Deluxe",
+              "detail": "Adds cosmetic bundles, early access, and often a season pass"
+            },
+            {
+              "label": "Collector's",
+              "detail": "Deluxe content plus premium digital items and physical collectibles"
+            },
+            {
+              "label": "Platforms",
+              "detail": "PC via Steam, PlayStation 5, and Xbox Series X|S"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Star Wars Galactic Racer Game System Requirements",
+          "description": "Provide the minimum and recommended PC specifications so players can check whether their hardware can run the game before launch.",
+          "href": "/release/star-wars-galactic-racer-platforms",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "A 64-bit Windows 10 or 11 install for the PC version"
+            },
+            {
+              "label": "CPU",
+              "detail": "A modern multi-core processor for steady frame rates"
+            },
+            {
+              "label": "GPU",
+              "detail": "A DirectX 12 graphics card with current drivers"
+            },
+            {
+              "label": "RAM",
+              "detail": "Extra memory helps in crowded online lobbies"
+            },
+            {
+              "label": "Storage",
+              "detail": "An SSD is recommended for fast track loading"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Star Wars Galactic Racer.",
+      "title": "Star Wars Galactic Racer FAQ",
+      "description": "Quick answers to the most common Star Wars Galactic Racer questions about racing, vehicles, upgrades, and multiplayer.",
       "items": [
         {
           "question": "What is Star Wars Galactic Racer?",
-          "answer": "Star Wars Galactic Racer is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Star Wars Galactic Racer is a high-speed, ship-based racing game set in the Star Wars galaxy. You race repulsorcraft and podracer-style machines through the Galactic League, tuning your craft between events and fighting for position across desert, canyon, city, and space circuits."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Star Wars Galactic Racer a roguelite or a straight racing game?",
+          "answer": "It blends both. Star Wars Galactic Racer has arcade races and a story campaign, but each run also uses roguelite-style upgrade choices, so the parts and boosts you pick between events shape how the next race plays out."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which racer should beginners pick in Star Wars Galactic Racer?",
+          "answer": "Start with a balanced all-rounder craft. In Star Wars Galactic Racer, balanced machines forgive mistakes while you learn braking points and racing lines, and you can move to a light interceptor or a heavy racer once you know the tracks."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What should I upgrade first in Star Wars Galactic Racer?",
+          "answer": "Handling and stabilizers come first. Star Wars Galactic Racer rewards corner exit speed, so grip and steering upgrades cut lap times faster than buying top speed before you can control it."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Star Wars Galactic Racer have multiplayer?",
+          "answer": "Yes. Star Wars Galactic Racer supports online multiplayer with cross-play and private lobbies, plus split-screen racing for local play, and you can practise overtaking and defending against friends."
+        },
+        {
+          "question": "Where can I find Star Wars Galactic Racer guides?",
+          "answer": "This Star Wars Galactic Racer wiki collects beginner guides, vehicle class breakdowns, upgrade and tuning advice, track strategies, game mode explainers, and edition comparisons in one place."
         }
       ]
     },
