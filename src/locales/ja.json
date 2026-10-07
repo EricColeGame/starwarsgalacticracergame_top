@@ -1,1 +1,491 @@
-{}
+{
+  "site": {
+    "name": "Star Wars Galactic Racer Wiki",
+    "shortName": "Galactic Racer",
+    "tagline": "車両・コース・ビルド・レースガイド",
+    "description": "Star Wars Galactic Racer のファン向けガイド。レースの遊び方、車両、コース、進行、アップデートなど、プレイヤーに必要な情報を網羅しています。",
+    "legalNotice": "非公式ファンウィキ。プレイヤーによる、プレイヤーのためのサイトです。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "guide": "ガイド",
+    "characters": "キャラクター",
+    "vehicles": "車両",
+    "mechanics": "メカニクス",
+    "modes": "モード",
+    "controls": "操作",
+    "release": "リリース",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え"
+  },
+  "home": {
+    "meta": {
+      "title": "Star Wars Galactic Racer Wiki — ガイド・車両・コース",
+      "description": "Star Wars Galactic Racer のガイド、車両、コース、ビルド、ゲームモード、レースのコツを新規・復帰プレイヤー向けに紹介します。"
+    },
+    "hero": {
+      "eyebrow": "ファン制作コミュニティウィキ",
+      "title": "Star Wars Galactic Racer Wiki",
+      "description": "Star Wars Galactic Racer のギャラクティック・リーグを制覇しよう。レパルサークラフトのクラス、コースと惑星、ビルドとアップグレード、ゲームモード、プロのレース戦略を解説します。",
+      "stats": [
+        "車両とクラス",
+        "コースと惑星",
+        "ビルドとアップグレード",
+        "ゲームモード"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "車両ティアリスト",
+      "tertiaryCta": "有効コード",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Star Wars Galactic Racer の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "スロットル操作、ブレーキポイント、レーシングラインを学び、生の速さを追う前にクリーンなラップを完走できるようにしましょう。"
+        },
+        {
+          "number": "2",
+          "title": "どのレーサーを選ぶか",
+          "description": "5つのパイロットアーキタイプと、それぞれに合う機体クラスを比較。機敏なインターセプターから重量級ポッドレーサーまで。"
+        },
+        {
+          "number": "3",
+          "title": "アップグレードとチューニング",
+          "description": "最高速度を買う前に、ハンドリング、ブースト、冷却を正しい順序でクレジットを使って改善しましょう。"
+        },
+        {
+          "number": "4",
+          "title": "武器と戦闘",
+          "description": "3スロットのロードアウトを組み、混戦レースで追い抜き、防御し、接触を生き延びましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "車両クラス",
+        "アップグレードとチューニング",
+        "ゲームモード"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "最初のクリーンなラップから安定した表彰台フィニッシュまでに必要なすべて。",
+          "href": "/guide/star-wars-galactic-racer-beginners-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "全車両",
+          "description": "軽量インターセプターからオープンホイールのポッドレーサーまで、すべてのレパルサークラフトクラス。",
+          "href": "/vehicles/star-wars-galactic-racer-all-vehicles"
+        },
+        {
+          "badge": "更新",
+          "title": "アップグレードとチューニング",
+          "description": "パワープラント、スラスター、冷却、ハンドリング、ハル、軽量化を解説。",
+          "href": "/mechanics/star-wars-galactic-racer-upgrades"
+        },
+        {
+          "badge": "人気",
+          "title": "プレイアブルキャラクター",
+          "description": "5つのパイロットアーキタイプを比較し、自分に合うメインを選べます。",
+          "href": "/characters/star-wars-galactic-racer-playable-characters"
+        },
+        {
+          "badge": "新着",
+          "title": "キャンペーンガイド",
+          "description": "イベントの種類、進行フェーズ、シーズンを早くクリアする方法。",
+          "href": "/modes/star-wars-galactic-racer-campaign"
+        },
+        {
+          "badge": "人気",
+          "title": "マルチプレイガイド",
+          "description": "クロスプレイ、プライベートロビー、混戦グリッドを生き延びる戦術。",
+          "href": "/modes/star-wars-galactic-racer-multiplayer"
+        },
+        {
+          "badge": "人気",
+          "title": "武器とロードアウト",
+          "description": "ブラスター、イオン兵器、地雷、シールドを組み合わせたバランスの良いロードアウト。",
+          "href": "/mechanics/star-wars-galactic-racer-weapons"
+        },
+        {
+          "badge": "新着",
+          "title": "エディション比較",
+          "description": "スタンダード、デラックス、コレクターズの各ティアと解放内容。",
+          "href": "/release/star-wars-galactic-racer-editions"
+        },
+        {
+          "badge": "新着",
+          "title": "レースに勝つ方法",
+          "description": "コース戦略、ブーストの規律、勝利を生む習慣。",
+          "href": "/guide/star-wars-galactic-racer-how-to-win"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Star Wars Galactic Racer とは？",
+      "paragraphs": [
+        "Star Wars Galactic Racer は、スター・ウォーズ銀河を舞台にした高速な機体レースゲームです。レパルサークラフト、スウープ、ポッドレーサー風のマシンを操り、ギャラクティック・リーグを駆け抜けます。コーナーで速度を保ち、ブーストをつなぎ、砂漠、峡谷、都市、宇宙のコースでポジションを争いましょう。",
+        "各ランはアーケードレースとローグライト的な選択を組み合わせています。パイロットアーキタイプを選び、イベント間で機体を調整し、ハンドリング、ブースト、冷却のアップグレードにクレジットを使ってマシンの挙動を変えていきます。Star Wars Galactic Racer はオンラインマルチプレイ、画面分割レース、フルキャンペーンにも対応しており、このウィキでは新人パイロットが表彰台に上がるためのガイド、車両解説、チューニングのコツをまとめています。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "Fuse Games"
+        },
+        {
+          "label": "パブリッシャー",
+          "value": "Secret Mode"
+        },
+        {
+          "label": "対応機種",
+          "value": "PC, PS5, Xbox Series X|S"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ローグライトレーサー"
+        },
+        {
+          "label": "車両クラス",
+          "value": "5"
+        },
+        {
+          "label": "パイロットアーキタイプ",
+          "value": "5"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Star Wars Galactic Racer Wiki を探索",
+      "description": "初心者向けレースループ、車両クラス、ビルドとアップグレード、コースと惑星、ゲームモード、マルチプレイ、エディション、PC 要件を扱う8つの中核モジュールを紹介します。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Star Wars Galactic Racer Game 初心者ガイド",
+          "description": "初心者向けにコアループを解説。スロットル操作、ブレーキポイント、レーシングライン、ブーストの規律を、難しいリーグイベントに挑む前に身につけます。",
+          "href": "/guide/star-wars-galactic-racer-beginners-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "一定のスロットルを保ち、速度を求める前にコースを覚える"
+            },
+            {
+              "label": "2",
+              "detail": "コーナー中盤ではなくエイペックス前にブレーキを踏み、立ち上がりの勢いを保つ"
+            },
+            {
+              "label": "3",
+              "detail": "レーシングラインに従い、同じエイペックスを3周連続で踏む"
+            },
+            {
+              "label": "4",
+              "detail": "ブーストは常に連射せず、直線とコーナー立ち上がりのために温存する"
+            },
+            {
+              "label": "5",
+              "detail": "1台のレーサーに数時間乗り込み、ハンドリングを体に覚えさせる"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Star Wars Galactic Racer Game 車両",
+          "description": "軽量インターセプター、バランス型オールラウンダー、重量級レーサー、ブーストプロトタイプ、ポッドレーサーなどレパルサークラフトクラスを紹介し、各ハンドリング特性がコースにどう合うかを解説します。",
+          "href": "/vehicles/star-wars-galactic-racer-vehicles",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "バランス型オールラウンダー — 新しいコースを学ぶ間に最も安全な選択"
+            },
+            {
+              "label": "A",
+              "detail": "軽量インターセプター — テクニカルコースで鋭い旋回と速いブースト回復"
+            },
+            {
+              "label": "B",
+              "detail": "重量級レーサー — 長い直線で高い最高速度と接触耐性"
+            },
+            {
+              "label": "C",
+              "detail": "ブーストプロトタイプ — 巨大な瞬間速度と上級者向けの厳しいハンドリング"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Star Wars Galactic Racer Game ビルドとアップグレード",
+          "description": "パワープラント、スラスター、冷却、ハンドリング、ハル、軽量化のアップグレードツリーを解説し、各パーツが攻撃的・防御的・速度重視のビルドをどう支えるかを説明します。",
+          "href": "/mechanics/star-wars-galactic-racer-upgrades",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Handling",
+              "detail": "まずスタビライザーとグリップ — 序盤は直線速度よりもコーナー立ち上がり速度"
+            },
+            {
+              "label": "Engine",
+              "detail": "コーナーでスピンしなくなったらパワープラントとスラスターを追加"
+            },
+            {
+              "label": "Cooling",
+              "detail": "ブースト使用量に冷却を合わせ、持続スロットルでオーバーヒートしないように"
+            },
+            {
+              "label": "Hull",
+              "detail": "ハルとシールドは接触の多いロビーや危険コースで効果を発揮"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Star Wars Galactic Racer Game コースと惑星",
+          "description": "ギャラクティック・リーグの砂漠、峡谷、都市、宇宙コースを紹介し、分岐ルート、高低差、ランを左右する危険要素を解説します。",
+          "href": "/guide/star-wars-galactic-racer-how-to-win",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Canyons",
+              "detail": "ハンドリングと軽量化がラップを制するタイトなテクニカルレイアウト"
+            },
+            {
+              "label": "Cities",
+              "detail": "狭い市街コースは正確なブレーキと精密なレーシングラインが報われる"
+            },
+            {
+              "label": "Desert",
+              "detail": "開けた砂漠コースは最高速度、スリップストリーム、規律あるスロットルが有利"
+            },
+            {
+              "label": "Space",
+              "detail": "軌道コースは広い直線と危険の多いコーナーが混在"
+            },
+            {
+              "label": "Hazards",
+              "detail": "デブリや環境トラップがあるためハル強化にクレジットを割く価値がある"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Star Wars Galactic Racer Game モード",
+          "description": "キャンペーン、アーケード、タイムトライアル、マルチプレイの各体験を分解し、それぞれが提供する進行やチャレンジ構造を説明します。",
+          "href": "/modes/star-wars-galactic-racer-campaign",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Campaign",
+              "detail": "シーズンを通したチャプターとライバル決闘でマシンやパーツを解放"
+            },
+            {
+              "label": "Arcade",
+              "detail": "プリセットチューニングと即リスタートで気軽に遊べるレース"
+            },
+            {
+              "label": "Time Trial",
+              "detail": "レーシングラインとクリーンで再現性のあるラップに集中するソロラン"
+            },
+            {
+              "label": "Online",
+              "detail": "クロスプレイ対応で人間の対戦相手と競うマルチプレイレース"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Star Wars Galactic Racer Game マルチプレイガイド",
+          "description": "競技レース、クロスプレイ、プライベートロビー、そして他パイロットとの激しい接触を生き延びる戦術を解説します。",
+          "href": "/modes/star-wars-galactic-racer-multiplayer",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "カウントダウン前にグリッドを読み、スペースのある発進レーンを選ぶ"
+            },
+            {
+              "label": "2",
+              "detail": "長い直線でライバルを抜くためにスリップストリームとブーストを併用"
+            },
+            {
+              "label": "3",
+              "detail": "接触の多いレースを完走するため、ユーティリティかシールドを最低1スロット装備"
+            },
+            {
+              "label": "4",
+              "detail": "友達とプライベートロビーで走り、クリーンな追い抜きを練習"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Star Wars Galactic Racer Game エディションと対応機種",
+          "description": "スタンダード、デラックス、コレクターズ各エディションを比較し、対応機種、予約特典、各ティアのコスメ特典をまとめます。",
+          "href": "/release/star-wars-galactic-racer-editions",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Standard",
+              "detail": "コアなレース体験と解放可能なロースターを含む基本ゲーム"
+            },
+            {
+              "label": "Deluxe",
+              "detail": "コスメバンドル、早期アクセス、多くの場合シーズンパスを追加"
+            },
+            {
+              "label": "Collector's",
+              "detail": "デラックス内容にプレミアムデジタルアイテムと物理コレクターズを追加"
+            },
+            {
+              "label": "Platforms",
+              "detail": "Steam 版 PC、PlayStation 5、Xbox Series X|S"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Star Wars Galactic Racer Game 動作環境",
+          "description": "最低・推奨 PC スペックを提示し、発売前に自分のハードウェアで動くか確認できるようにします。",
+          "href": "/release/star-wars-galactic-racer-platforms",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "PC 版には64ビットの Windows 10 または 11"
+            },
+            {
+              "label": "CPU",
+              "detail": "安定したフレームレートのための最新マルチコアプロセッサ"
+            },
+            {
+              "label": "GPU",
+              "detail": "最新ドライバーの DirectX 12 対応グラフィックスカード"
+            },
+            {
+              "label": "RAM",
+              "detail": "混雑したオンラインロビーでは追加メモリが役立つ"
+            },
+            {
+              "label": "Storage",
+              "detail": "高速なコース読み込みには SSD を推奨"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Star Wars Galactic Racer FAQ",
+      "description": "レース、車両、アップグレード、マルチプレイに関する Star Wars Galactic Racer のよくある質問に手早く回答します。",
+      "items": [
+        {
+          "question": "Star Wars Galactic Racer とは？",
+          "answer": "Star Wars Galactic Racer は、スター・ウォーズ銀河を舞台にした高速な機体レースゲームです。レパルサークラフトやポッドレーサー風マシンでギャラクティック・リーグを走り、イベント間で機体を調整しながら、砂漠、峡谷、都市、宇宙のコースでポジションを争います。"
+        },
+        {
+          "question": "Star Wars Galactic Racer はローグライトですか、それとも純粋なレースゲームですか？",
+          "answer": "両方を組み合わせています。Star Wars Galactic Racer にはアーケードレースとストーリーキャンペーンがありますが、各ランではローグライト風のアップグレード選択もあり、イベント間で選ぶパーツやブーストが次のレースの展開を左右します。"
+        },
+        {
+          "question": "初心者はどのレーサーを選ぶべきですか？",
+          "answer": "まずはバランス型のオールラウンダー機体から始めましょう。Star Wars Galactic Racer ではバランス型のマシンがブレーキポイントやレーシングラインを学ぶ間のミスを許容してくれます。コースを覚えたら軽量インターセプターや重量級レーサーに移行できます。"
+        },
+        {
+          "question": "Star Wars Galactic Racer で最初に何をアップグレードすべきですか？",
+          "answer": "まずハンドリングとスタビライザーです。Star Wars Galactic Racer はコーナー立ち上がり速度を重視するため、グリップとステアリングの強化は、制御できないうちに最高速度を買うより速くラップタイムを縮めます。"
+        },
+        {
+          "question": "Star Wars Galactic Racer にマルチプレイはありますか？",
+          "answer": "はい。Star Wars Galactic Racer はクロスプレイとプライベートロビーに対応したオンラインマルチプレイに加え、ローカル向けの画面分割レースもサポートし、友達相手に追い抜きと防御を練習できます。"
+        },
+        {
+          "question": "Star Wars Galactic Racer のガイドはどこにありますか？",
+          "answer": "この Star Wars Galactic Racer ウィキには、初心者ガイド、車両クラス解説、アップグレードとチューニングの助言、コース戦略、ゲームモード解説、エディション比較が一か所にまとまっています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Star Wars Galactic Racer をマスターする準備はできましたか？",
+      "description": "最初のギャラクティック・リーグレースから高リスクのテイクダウンまで、コミュニティウィキが無料で最新のガイドをお届けします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam で入手"
+    }
+  },
+  "characters": {
+    "overviewTitle": "Star Wars Galactic Racer キャラクター",
+    "overviewDescription": "Star Wars Galactic Racer のすべてのプレイアブルパイロットを紹介。ステータス、アビリティ、適切なレーサーを選ぶコツ付き。"
+  },
+  "controls": {
+    "overviewTitle": "Star Wars Galactic Racer 操作",
+    "overviewDescription": "Star Wars Galactic Racer のコントローラー、ホイール、ジョイスティック、VR 対応をキー割り当てとセットアップのコツとともに解説。"
+  },
+  "guide": {
+    "overviewTitle": "Star Wars Galactic Racer ガイド",
+    "overviewDescription": "Star Wars Galactic Racer を素早く走り始めるための初心者ガイド、コツ、トロフィー攻略。"
+  },
+  "mechanics": {
+    "overviewTitle": "Star Wars Galactic Racer メカニクス",
+    "overviewDescription": "Star Wars Galactic Racer のアップグレード、武器、カスタマイズ、ローグライトシステムを解説。"
+  },
+  "modes": {
+    "overviewTitle": "Star Wars Galactic Racer ゲームモード",
+    "overviewDescription": "Star Wars Galactic Racer のキャンペーン、アーケード、画面分割、オンラインマルチプレイモード。"
+  },
+  "release": {
+    "overviewTitle": "Star Wars Galactic Racer リリース情報",
+    "overviewDescription": "Star Wars Galactic Racer の発売日、対応機種、エディション、価格、予約情報。"
+  },
+  "vehicles": {
+    "overviewTitle": "Star Wars Galactic Racer 車両",
+    "overviewDescription": "Star Wars Galactic Racer のポッドレーサー、ランドスピーダー、スピーダーバイクのステータスとチューニングのコツ。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビ",
+    "activeCodes": "有効コード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Steam でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "ヘルプが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "ガイドはまだありません。近日公開をお待ちください！"
+  },
+  "footer": {
+    "aboutTitle": "Star Wars Galactic Racer Wiki",
+    "about": "Star Wars Galactic Racer Wiki は、車両、コース、ビルド、ゲームモード、必須のレース知識を扱う独立したファン制作のガイドハブです。新人からベテランまで役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Star Wars Galactic Racer Wiki. Lucasfilm、Disney、Fuse Games、Secret Mode とは提携していません。",
+    "description": "スター・ウォーズ銀河の外縁で繰り広げられる、ラン制のハイリスク・レースアドベンチャー。",
+    "playGame": "Star Wars Galactic Racer を入手",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "シップビルダー（ロードアウトプランナー）",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "キャラクターガイド",
+    "bossGuides": "ゲームモード",
+    "buildGuide": "アップグレードガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

@@ -1,1 +1,491 @@
-{}
+{
+  "site": {
+    "name": "Star Wars Galactic Racer Wiki",
+    "shortName": "Galactic Racer",
+    "tagline": "Fahrzeuge, Strecken, Builds & Renn-Guides",
+    "description": "Ein Fan-Guide zu Star Wars Galactic Racer mit Renn-Gameplay, Fahrzeugen, Strecken, Fortschritt, Updates und allem, was Spieler wissen müssen.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Start",
+    "guide": "Guide",
+    "characters": "Charaktere",
+    "vehicles": "Fahrzeuge",
+    "mechanics": "Mechanik",
+    "modes": "Modi",
+    "controls": "Steuerung",
+    "release": "Release",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln"
+  },
+  "home": {
+    "meta": {
+      "title": "Star Wars Galactic Racer Wiki — Guides, Fahrzeuge & Strecken",
+      "description": "Entdecke Guides, Fahrzeuge, Strecken, Builds, Spielmodi und Renntipps zu Star Wars Galactic Racer für neue und wiederkehrende Spieler."
+    },
+    "hero": {
+      "eyebrow": "Von Fans erstelltes Community-Wiki",
+      "title": "Star Wars Galactic Racer Wiki",
+      "description": "Meistere die Galaktische Liga in Star Wars Galactic Racer. Entdecke Repulsorcraft-Klassen, Strecken und Planeten, Builds und Upgrades, Spielmodi und Profi-Rennstrategien.",
+      "stats": [
+        "Fahrzeuge & Klassen",
+        "Strecken & Planeten",
+        "Builds & Upgrades",
+        "Spielmodi"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Fahrzeug-Tier-Liste",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Star Wars Galactic Racer Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne Gasdosierung, Bremspunkte und Ideallinien, damit du eine saubere Runde fährst, bevor du auf rohe Geschwindigkeit setzt."
+        },
+        {
+          "number": "2",
+          "title": "Welchen Racer wählen",
+          "description": "Vergleiche die fünf Piloten-Archetypen und die passenden Fahrzeugklassen, von wendigen Interceptors bis zu schweren Podracern."
+        },
+        {
+          "number": "3",
+          "title": "Upgrades & Tuning",
+          "description": "Gib Credits in der richtigen Reihenfolge aus, um Handling, Boost und Kühlung zu verbessern, bevor du Höchstgeschwindigkeit kaufst."
+        },
+        {
+          "number": "4",
+          "title": "Waffen & Kampf",
+          "description": "Baue ein Loadout mit drei Slots, mit dem du überholen, verteidigen und in dichten Rennen Kontakt überleben kannst."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuell im Trend",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Fahrzeugklassen",
+        "Upgrades & Tuning",
+        "Spielmodi"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Alles von deiner ersten sauberen Runde bis zu konstanten Podiumsplätzen.",
+          "href": "/guide/star-wars-galactic-racer-beginners-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Alle Fahrzeuge",
+          "description": "Jede Repulsorcraft-Klasse, von leichten Interceptors bis zu Open-Wheel-Podracern.",
+          "href": "/vehicles/star-wars-galactic-racer-all-vehicles"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Upgrades & Tuning",
+          "description": "Kraftwerk, Thruster, Kühlung, Handling, Hülle und Gewichtsreduzierung erklärt.",
+          "href": "/mechanics/star-wars-galactic-racer-upgrades"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Spielbare Charaktere",
+          "description": "Die fünf Piloten-Archetypen im Vergleich, damit du den richtigen Main wählst.",
+          "href": "/characters/star-wars-galactic-racer-playable-characters"
+        },
+        {
+          "badge": "Neu",
+          "title": "Kampagnen-Guide",
+          "description": "Event-Typen, Fortschrittsphasen und wie du die Saison schneller abschließt.",
+          "href": "/modes/star-wars-galactic-racer-campaign"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Multiplayer-Guide",
+          "description": "Cross-Play, private Lobbys und Taktiken für überfüllte Startfelder.",
+          "href": "/modes/star-wars-galactic-racer-multiplayer"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Waffen & Loadouts",
+          "description": "Blaster, Ionenwaffen, Minen und Schilde zu einem ausgewogenen Loadout kombiniert.",
+          "href": "/mechanics/star-wars-galactic-racer-weapons"
+        },
+        {
+          "badge": "Neu",
+          "title": "Editionen im Vergleich",
+          "description": "Standard, Deluxe und Collector's und was jede Stufe freischaltet.",
+          "href": "/release/star-wars-galactic-racer-editions"
+        },
+        {
+          "badge": "Neu",
+          "title": "So gewinnst du Rennen",
+          "description": "Streckenstrategie, Boost-Disziplin und die Gewohnheiten, die Rennen entscheiden.",
+          "href": "/guide/star-wars-galactic-racer-how-to-win"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Star Wars Galactic Racer?",
+      "paragraphs": [
+        "Star Wars Galactic Racer ist ein highspeediges, schiffsbasiertes Rennspiel in der Star-Wars-Galaxis. Du steuerst Repulsorcraft, Swoops und Podracer-artige Maschinen durch die Galaktische Liga, hältst in Kurven das Tempo, verkettest Boosts und kämpfst auf Strecken durch Wüste, Canyon, Stadt und Weltraum um Positionen.",
+        "Jeder Run verbindet Arcade-Rennen mit Roguelite-Entscheidungen: Du wählst einen Piloten-Archetyp, stimmst dein Fahrzeug zwischen Events ab und gibst Credits für Handling-, Boost- und Kühlungs-Upgrades aus, die das Verhalten der Maschine verändern. Star Wars Galactic Racer unterstützt außerdem Online-Multiplayer, Splitscreen-Rennen und eine vollständige Kampagne, und dieses Wiki sammelt die Guides, Fahrzeuganalysen und Tuning-Tipps, die neuen Piloten aufs Podium helfen."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Fuse Games"
+        },
+        {
+          "label": "Publisher",
+          "value": "Secret Mode"
+        },
+        {
+          "label": "Plattformen",
+          "value": "PC, PS5, Xbox Series X|S"
+        },
+        {
+          "label": "Genre",
+          "value": "Roguelite-Racer"
+        },
+        {
+          "label": "Fahrzeugklassen",
+          "value": "5"
+        },
+        {
+          "label": "Piloten-Archetypen",
+          "value": "5"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Star Wars Galactic Racer Wiki entdecken",
+      "description": "Tauche in acht Kernmodule zu Star Wars Galactic Racer ein: Einstiegs-Renntraining, Fahrzeugklassen, Builds und Upgrades, Strecken und Planeten, Spielmodi, Multiplayer, Editionen und PC-Anforderungen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Star Wars Galactic Racer Game Einsteiger-Guide",
+          "description": "Ein anfängerfreundlicher Durchlauf durch den Kern-Renntraining: Gasdosierung, Bremspunkte, Ideallinien und Boost-Disziplin, bevor du dich an schwerere Liga-Events wagst.",
+          "href": "/guide/star-wars-galactic-racer-beginners-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Halte konstant Gas und lerne die Strecke, bevor du auf Tempo drückst"
+            },
+            {
+              "label": "2",
+              "detail": "Bremse vor dem Scheitelpunkt, nicht mitten in der Kurve, um Schwung beim Herausbeschleunigen zu behalten"
+            },
+            {
+              "label": "3",
+              "detail": "Folge der Ideallinie und triff dreimal in Folge denselben Scheitelpunkt"
+            },
+            {
+              "label": "4",
+              "detail": "Spare den Boost für Geraden und Kurvenausgänge, statt ihn ständig abzufeuern"
+            },
+            {
+              "label": "5",
+              "detail": "Fahre mehrere Stunden denselben Racer, damit sein Handling zum Muskelgedächtnis wird"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Star Wars Galactic Racer Game Fahrzeuge",
+          "description": "Stelle die Repulsorcraft-Klassen vor, darunter leichte Interceptors, ausgewogene Allrounder, schwere Racer, Boost-Prototypen und Podracer, und erkläre, wie jede Handling-Signatur zu einer Strecke passt.",
+          "href": "/vehicles/star-wars-galactic-racer-vehicles",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Ausgewogener Allrounder — die sicherste Wahl, während du eine neue Strecke lernst"
+            },
+            {
+              "label": "A",
+              "detail": "Leichter Interceptor — scharfes Einlenken und schnelle Boost-Regeneration auf technischen Strecken"
+            },
+            {
+              "label": "B",
+              "detail": "Schwerer Racer — hohe Höchstgeschwindigkeit und Kontaktresistenz auf langen Geraden"
+            },
+            {
+              "label": "C",
+              "detail": "Boost-Prototyp — enorme Spurtgeschwindigkeit mit bestrafendem Handling für Experten"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Star Wars Galactic Racer Game Builds und Upgrades",
+          "description": "Behandle den Upgrade-Baum — Kraftwerk, Thruster, Kühlung, Handling, Hülle und Gewichtsreduzierung — und wie jedes Teil aggressive, defensive oder tempo-orientierte Builds unterstützt.",
+          "href": "/mechanics/star-wars-galactic-racer-upgrades",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Handling",
+              "detail": "Zuerst Stabilisatoren und Grip — Kurvenausgang zählt früh mehr als Geradengeschwindigkeit"
+            },
+            {
+              "label": "Engine",
+              "detail": "Ergänze Kraftwerk und Thruster, sobald dein Fahrzeug in Kurven nicht mehr ausbricht"
+            },
+            {
+              "label": "Cooling",
+              "detail": "Passe die Kühlung an deine Boost-Nutzung an, damit Dauer-Gas nicht überhitzt"
+            },
+            {
+              "label": "Hull",
+              "detail": "Hülle und Schilde zahlen sich in kontaktreichen Lobbys und Gefahrenstrecken aus"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Star Wars Galactic Racer Game Strecken und Planeten",
+          "description": "Stelle die Wüsten-, Canyon-, Stadt- und Weltraumkurse der Galaktischen Liga vor, dazu Abzweigungen, Höhenunterschiede und Gefahren, die einen Run entscheiden.",
+          "href": "/guide/star-wars-galactic-racer-how-to-win",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Canyons",
+              "detail": "Enge technische Layouts, in denen Handling und Gewichtsreduzierung die Runde entscheiden"
+            },
+            {
+              "label": "Cities",
+              "detail": "Schmale Stadtkurse belohnen sauberes Bremsen und präzise Ideallinien"
+            },
+            {
+              "label": "Desert",
+              "detail": "Offene Wüstenstrecken begünstigen Höchstgeschwindigkeit, Windschatten und diszipliniertes Gas"
+            },
+            {
+              "label": "Space",
+              "detail": "Orbitkurse mischen breite Geraden mit gefahrenreichen Kurven"
+            },
+            {
+              "label": "Hazards",
+              "detail": "Trümmer und Umgebungsfallen machen Hüllen-Upgrades die Credits wert"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Star Wars Galactic Racer Game Spielmodi",
+          "description": "Schlüssele Kampagne, Arcade, Zeitfahren und Multiplayer auf und erkläre, welche Fortschritts- oder Challenge-Struktur dahintersteckt.",
+          "href": "/modes/star-wars-galactic-racer-campaign",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Campaign",
+              "detail": "Saisonlange Kapitel und Rivalen-Duelle, die Maschinen und Teile freischalten"
+            },
+            {
+              "label": "Arcade",
+              "detail": "Schnelle Rennen mit voreingestelltem Tuning und sofortigem Neustart"
+            },
+            {
+              "label": "Time Trial",
+              "detail": "Solo-Runs mit Fokus auf Ideallinien und saubere, wiederholbare Runden"
+            },
+            {
+              "label": "Online",
+              "detail": "Multiplayer-Rennen gegen menschliche Gegner mit Cross-Play"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Star Wars Galactic Racer Game Multiplayer-Guide",
+          "description": "Erkläre kompetitives Rennen, Cross-Play, private Lobbys und die Taktiken, mit denen du aggressiven Kontakt gegen andere Piloten überstehst.",
+          "href": "/modes/star-wars-galactic-racer-multiplayer",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lies das Startfeld vor dem Countdown und wähle eine Startspur mit Platz"
+            },
+            {
+              "label": "2",
+              "detail": "Nutze Windschatten und Boost zusammen, um auf langen Geraden zu überholen"
+            },
+            {
+              "label": "3",
+              "detail": "Rüste mindestens einen Utility- oder Schild-Slot aus, um kontaktreiche Rennen zu beenden"
+            },
+            {
+              "label": "4",
+              "detail": "Fahre private Lobbys mit Freunden, um saubere Überholmanöver zu üben"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Star Wars Galactic Racer Game Editionen und Plattformen",
+          "description": "Vergleiche Standard-, Deluxe- und Collector's-Edition und fasse Plattformen, Vorbesteller-Boni und kosmetische Extras jeder Stufe zusammen.",
+          "href": "/release/star-wars-galactic-racer-editions",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Standard",
+              "detail": "Basisspiel mit dem Kern-Rennerlebnis und freischaltbarem Roster"
+            },
+            {
+              "label": "Deluxe",
+              "detail": "Ergänzt Kosmetik-Bundles, Early Access und oft einen Season Pass"
+            },
+            {
+              "label": "Collector's",
+              "detail": "Deluxe-Inhalte plus Premium-Digitalitems und physische Sammlerstücke"
+            },
+            {
+              "label": "Platforms",
+              "detail": "PC über Steam, PlayStation 5 und Xbox Series X|S"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Star Wars Galactic Racer Game Systemanforderungen",
+          "description": "Nenne Mindest- und empfohlene PC-Spezifikationen, damit Spieler vor dem Start prüfen können, ob ihre Hardware das Spiel schafft.",
+          "href": "/release/star-wars-galactic-racer-platforms",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Eine 64-Bit-Installation von Windows 10 oder 11 für die PC-Version"
+            },
+            {
+              "label": "CPU",
+              "detail": "Ein moderner Mehrkern-Prozessor für stabile Bildraten"
+            },
+            {
+              "label": "GPU",
+              "detail": "Eine DirectX-12-Grafikkarte mit aktuellen Treibern"
+            },
+            {
+              "label": "RAM",
+              "detail": "Zusätzlicher Speicher hilft in vollen Online-Lobbys"
+            },
+            {
+              "label": "Storage",
+              "detail": "Eine SSD wird für schnelles Streckenladen empfohlen"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Star Wars Galactic Racer FAQ",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Star Wars Galactic Racer rund um Rennen, Fahrzeuge, Upgrades und Multiplayer.",
+      "items": [
+        {
+          "question": "Was ist Star Wars Galactic Racer?",
+          "answer": "Star Wars Galactic Racer ist ein highspeediges, schiffsbasiertes Rennspiel in der Star-Wars-Galaxis. Du fährst Repulsorcraft und Podracer-artige Maschinen durch die Galaktische Liga, stimmst dein Fahrzeug zwischen Events ab und kämpfst auf Wüsten-, Canyon-, Stadt- und Weltraumkursen um Positionen."
+        },
+        {
+          "question": "Ist Star Wars Galactic Racer ein Roguelite oder ein reines Rennspiel?",
+          "answer": "Es verbindet beides. Star Wars Galactic Racer hat Arcade-Rennen und eine Story-Kampagne, aber jeder Run nutzt auch Roguelite-Upgrade-Entscheidungen, sodass Teile und Boosts, die du zwischen Events wählst, das nächste Rennen prägen."
+        },
+        {
+          "question": "Welchen Racer sollten Anfänger in Star Wars Galactic Racer wählen?",
+          "answer": "Beginne mit einem ausgewogenen Allrounder. In Star Wars Galactic Racer verzeihen ausgewogene Maschinen Fehler, während du Bremspunkte und Ideallinien lernst, und später kannst du auf einen leichten Interceptor oder schweren Racer wechseln."
+        },
+        {
+          "question": "Was sollte ich in Star Wars Galactic Racer zuerst aufrüsten?",
+          "answer": "Zuerst Handling und Stabilisatoren. Star Wars Galactic Racer belohnt Kurvenausgang, daher senken Grip- und Lenkungs-Upgrades die Rundenzeiten schneller, als Höchstgeschwindigkeit zu kaufen, bevor du sie kontrollieren kannst."
+        },
+        {
+          "question": "Hat Star Wars Galactic Racer Multiplayer?",
+          "answer": "Ja. Star Wars Galactic Racer unterstützt Online-Multiplayer mit Cross-Play und privaten Lobbys sowie Splitscreen-Rennen für lokales Spiel, sodass du Überholen und Verteidigen mit Freunden üben kannst."
+        },
+        {
+          "question": "Wo finde ich Guides zu Star Wars Galactic Racer?",
+          "answer": "Dieses Star Wars Galactic Racer Wiki bündelt Einsteiger-Guides, Fahrzeugklassen-Analysen, Upgrade- und Tuning-Tipps, Streckenstrategien, Spielmodus-Erklärungen und Editionsvergleiche an einem Ort."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Star Wars Galactic Racer zu meistern?",
+      "description": "Von deinem ersten Galaktische-Liga-Rennen bis zu riskanten Takedowns bietet dir unser Community-Wiki kostenlose, aktuelle Guides.",
+      "primary": "Lies den Einsteiger-Guide",
+      "secondary": "Auf Steam holen"
+    }
+  },
+  "characters": {
+    "overviewTitle": "Star Wars Galactic Racer Charaktere",
+    "overviewDescription": "Lerne jeden spielbaren Piloten in Star Wars Galactic Racer kennen, mit Werten, Fähigkeiten und Tipps zur richtigen Wahl."
+  },
+  "controls": {
+    "overviewTitle": "Star Wars Galactic Racer Steuerung",
+    "overviewDescription": "Controller, Lenkrad, Joystick und VR-Unterstützung für Star Wars Galactic Racer erklärt, inklusive Tastenbelegung und Setup-Tipps."
+  },
+  "guide": {
+    "overviewTitle": "Star Wars Galactic Racer Guide",
+    "overviewDescription": "Einsteiger-Guides, Tipps und Trophäen-Hilfe für Star Wars Galactic Racer, damit du schnell fährst."
+  },
+  "mechanics": {
+    "overviewTitle": "Star Wars Galactic Racer Mechanik",
+    "overviewDescription": "Upgrades, Waffen, Anpassung und Roguelite-Systeme in Star Wars Galactic Racer erklärt."
+  },
+  "modes": {
+    "overviewTitle": "Star Wars Galactic Racer Spielmodi",
+    "overviewDescription": "Kampagne, Arcade, Splitscreen und Online-Multiplayer in Star Wars Galactic Racer."
+  },
+  "release": {
+    "overviewTitle": "Star Wars Galactic Racer Release-Infos",
+    "overviewDescription": "Erscheinungsdatum, Plattformen, Editionen, Preis und Vorbestellinfos zu Star Wars Galactic Racer."
+  },
+  "vehicles": {
+    "overviewTitle": "Star Wars Galactic Racer Fahrzeuge",
+    "overviewDescription": "Podracer, Landspeeder und Speeder-Bikes mit Werten und Tuning-Tipps in Star Wars Galactic Racer."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Weiterlesen",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Star Wars Galactic Racer Wiki",
+    "about": "Star Wars Galactic Racer Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Fahrzeugen, Strecken, Builds, Spielmodi und wichtigem Rennwissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Star Wars Galactic Racer Wiki. Nicht mit Lucasfilm, Disney, Fuse Games oder Secret Mode verbunden.",
+    "description": "Run-basiertes, riskantes Rennabenteuer am Rand der Star-Wars-Galaxis.",
+    "playGame": "Star Wars Galactic Racer holen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Ship Builder (Loadout-Planer)",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Charakter-Guides",
+    "bossGuides": "Spielmodi",
+    "buildGuide": "Upgrade-Guides",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

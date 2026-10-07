@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://discord.gg/starwarsgalacticracer",
     youtube: "https://www.youtube.com/@StarWarsGalacticRacer",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "de", "fr"],
   defaultLocale: "en",
 };
