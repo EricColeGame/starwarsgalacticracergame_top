@@ -8,6 +8,13 @@
   },
   "nav": {
     "home": "Home",
+    "guide": "Guide",
+    "characters": "Characters",
+    "vehicles": "Vehicles",
+    "mechanics": "Mechanics",
+    "modes": "Modes",
+    "controls": "Controls",
+    "release": "Release",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
   },
@@ -417,7 +424,34 @@
       "secondary": "Get it on Steam"
     }
   },
-  "bosses": {},
+  "characters": {
+    "overviewTitle": "Star Wars Galactic Racer Characters",
+    "overviewDescription": "Meet every playable pilot in Star Wars Galactic Racer, with stats, abilities, and tips to pick the right racer."
+  },
+  "controls": {
+    "overviewTitle": "Star Wars Galactic Racer Controls",
+    "overviewDescription": "Controller, wheel, joystick, and VR support explained for Star Wars Galactic Racer, including key bindings and setup tips."
+  },
+  "guide": {
+    "overviewTitle": "Star Wars Galactic Racer Guide",
+    "overviewDescription": "Beginner guides, tips, and trophy help for Star Wars Galactic Racer to get you racing fast."
+  },
+  "mechanics": {
+    "overviewTitle": "Star Wars Galactic Racer Mechanics",
+    "overviewDescription": "Upgrades, weapons, customization, and roguelite systems explained for Star Wars Galactic Racer."
+  },
+  "modes": {
+    "overviewTitle": "Star Wars Galactic Racer Game Modes",
+    "overviewDescription": "Campaign, arcade, split-screen, and online multiplayer modes in Star Wars Galactic Racer."
+  },
+  "release": {
+    "overviewTitle": "Star Wars Galactic Racer Release Info",
+    "overviewDescription": "Release date, platforms, editions, price, and pre-order details for Star Wars Galactic Racer."
+  },
+  "vehicles": {
+    "overviewTitle": "Star Wars Galactic Racer Vehicles",
+    "overviewDescription": "Podracers, landspeeders, and speeder bikes with stats and tuning tips in Star Wars Galactic Racer."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -448,9 +482,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Ship Builder (Loadout Planner)",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Character Guides",
+    "bossGuides": "Game Modes",
+    "buildGuide": "Upgrade Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
